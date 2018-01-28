@@ -1,0 +1,28 @@
+{
+  "name": "fetch-shows",
+  "version": "1.0.0",
+  "description": "A script to fetch a list of soundboard quality shows from archive.org",
+  "main": "fetch-shows.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamTools/fetch-shows.git"
+  },
+  "keywords": [
+    "archive",
+    "music",
+    "download",
+    "crawl",
+    "audio",
+    "soundboard"
+  ],
+  "author": "moondit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamTools/fetch-shows/issues"
+  },
+  "homepage": "https://github.com/JamTools/fetch-shows#readme",
+  "dependencies": {
+    "commander": "^2.13.0",
+    "shelljs": "^0.8.1"
+  }
+}
